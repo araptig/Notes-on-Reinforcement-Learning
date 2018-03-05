@@ -1,1 +1,1 @@
-# Notes-on-Reinforcement-Learning
+My notes on [reinforcement Learning](https://github.com/araptig/Notes-on-Reinforcement-Learning/blob/master/RL.pdf) based on [David Silver's Lectures](https://www.youtube.com/playlist?list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)
